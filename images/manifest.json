@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1993,
+    "id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/images/zirkus_001/canvas/",
+    "label" : {
+      "none" : [ "zirkus_001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/images/zirkus_001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/images/zirkus_001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 43
+            }, {
+              "width" : 125,
+              "height" : 86
+            }, {
+              "width" : 250,
+              "height" : 171
+            }, {
+              "width" : 499,
+              "height" : 341
+            }, {
+              "width" : 997,
+              "height" : 681
+            }, {
+              "width" : 1993,
+              "height" : 1362
+            } ],
+            "profile" : "level0",
+            "width" : 1993,
+            "id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/images/zirkus_001",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1362
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1993,
+          "id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/images/zirkus_001/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1362
+        },
+        "target" : "https://Sjulatest.github.io/IIIF-Workbench-Test/images/zirkus_001/canvas/"
+      } ]
+    } ],
+    "height" : 1362
+  }, {
     "width" : 1000,
     "id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/images/The_Felidae/canvas/",
     "label" : {
