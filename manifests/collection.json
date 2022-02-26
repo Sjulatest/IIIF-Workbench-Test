@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/manifests/manifest_zirkusplakate_erara.json",
-    "label" : "[Schausteller- und Zirkusplakate]"
-  } ]
+  "items" : [ ]
 }
