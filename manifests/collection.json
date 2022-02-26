@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Sjulatest.github.io/IIIF-Workbench-Test/manifests/manifest2.json",
+    "label" : "manifest test "
+  } ]
 }
